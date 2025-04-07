@@ -1,6 +1,6 @@
-# Laboratory Reagent Database
+# Laboratory Reagent Database <img src="https://th.bing.com/th/id/R.167347dbf9f99b2d5a429907793ab456?rik=sUr%2bPKxkMV%2bxmQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fdatabase-png-1024.png&ehk=9RlCqOZCsei0eG7uKZyisRNAuIlmxnu4xKPTqTo6xXk%3d&risl=&pid=ImgRaw&r=0" width="80" align="right"/>
 
-![Logo]([https://th.bing.com/th/id/R.167347dbf9f99b2d5a429907793ab456?rik=sUr%2bPKxkMV%2bxmQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fdatabase-png-1024.png&ehk=9RlCqOZCsei0eG7uKZyisRNAuIlmxnu4xKPTqTo6xXk%3d&risl=&pid=ImgRaw&r=0])  
+
 *Your go-to solution for efficient reagent management.*
 
 ---
