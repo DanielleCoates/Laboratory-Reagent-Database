@@ -28,5 +28,6 @@ With these capabilities, we empower labs to focus on what truly matters: groundb
 ---
 
 ## Folder Structure
-Here's a recommended folder structure for the project:
+- SQL File : SQL File containing database code connected to phpMyAdmin
+- Front End Files: Files for the interface and front end development design (PHP and HTML syntax)
 
