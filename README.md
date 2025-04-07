@@ -4,6 +4,16 @@
 
 ---
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [About Us](#about-us)
+3. [Why This Is Useful](#why-this-is-useful)
+4. [Folder Structure](#folder-structure)
+5. [Project Members](#project-members)
+   
+---
+
 ## Introduction
 Efficient reagent management is crucial for laboratories, ensuring smooth operations, accurate results, and cost-effective practices. The **Laboratory Reagent Database** is a modern, innovative system designed to streamline the management of laboratory reagents with ease, precision, and accessibility.
 
@@ -31,3 +41,9 @@ With these capabilities, we empower labs to focus on what truly matters: groundb
 - SQL File : SQL File containing database code connected to phpMyAdmin
 - Front End Files: Files for the interface and front end development design (PHP and HTML syntax)
 
+---
+
+## Project Members
+- **Stella Castro**
+- **Danielle Coates**
+- **Francisco Meersohn**
